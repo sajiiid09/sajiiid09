@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]  
+# 👋 Hello, I'm [Sajid Mahmud]  
 
 **AI-Powered Developer | Chrome Extension Builder | Web & ML Enthusiast**  
 
@@ -13,7 +13,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 - 💻 Languages & Tools: `JavaScript | TypeScript | Python | React | Node.js | Tailwind CSS | Git | VS Code`  
 - 🏆 Competitive Programming: Active on **Codeforces & LeetCode**  
 - 🌐 Portfolio: [Your Portfolio Link]  
-- 📫 Connect with me: [LinkedIn](https://linkedin.com) | [Email](mailto:youremail@example.com)
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/sajid-mahmud-159513113) | [Email](sajid.m.mahmud.1@gmail.com)
 
 ---
 
@@ -52,7 +52,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajiiid09&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -64,7 +64,8 @@ I live by the motto: **“Build, Break, Learn, Repeat.”** Every project is a p
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/sajid-mahmud-159513113"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://twitter.com](https://x.com/damnbuiii)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="sajid.m.mahmud.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
