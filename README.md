@@ -2,7 +2,7 @@
 
 **AI-Powered Developer | Chrome Extension Builder | Web & ML Enthusiast**  
 
-![Header Image]([(https://oyster.ignimgs.com/wordpress/stg.ign.com/2014/03/rust-cohle-true-detective-hallucination1.gif))
+![Header Image]([(https://i.gifer.com/CWc1.mp4))
 ]
 ---
 
