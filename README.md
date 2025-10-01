@@ -13,7 +13,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 - 💻 Languages & Tools: `JavaScript | TypeScript | Python | React | Node.js | Tailwind CSS | Git | VS Code`  
 - 🏆 Competitive Programming: Active on **Codeforces & LeetCode**  
 - 🌐 Portfolio: [Your Portfolio Link]  
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/sajid-mahmud-159513113) | [Email](sajid.m.mahmud.1@gmail.com) | [Website](https://v0-portfolio-website-sajid-mahmud.vercel.app/)
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/sajid-mahmud-159513113) | [Email](sajid.m.mahmud.1@gmail.com) | [Porfolio Website](https://v0-portfolio-website-sajid-mahmud.vercel.app/)
 
 ---
 
@@ -69,6 +69,7 @@ I live by the motto: **“Build, Break, Learn, Repeat.”** Every project is a p
   <a href="[https://twitter.com](https://x.com/damnbuiii)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="sajid.m.mahmud.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 
 
