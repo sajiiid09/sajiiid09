@@ -1,15 +1,15 @@
 # 👋 Hello, I'm [Sajid Mahmud]  
 
-**AI-Powered Developer | Chrome Extension Builder | Web & ML Enthusiast**  
+**Developer | Data Analyst | Web & ML Enthusiast**  
 
 ![Header Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ4cm1pZGJicGoyYXVzcnhwczRiNWx3NHIwZ3BpejVnZjRidG10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwbMLvtTjsEU5oi6C1/giphy.gif)
 
 ---
 
 ## 🚀 About Me
-I'm passionate about creating **AI-driven tools**, **interactive web apps**, and **problem-solving assistants**. I love building **Chrome extensions, dashboards, and smart AI integrations** that help developers save time and learn faster.  
+I'm passionate about creating **AI-driven tools**, **interactive web apps**, and **problem-solving assistants**. I love building **Websites, Data Analyticals, and smart AI integrations** that help developers save time and learn faster.  
 
-- 🌱 Currently exploring: **GPT-4 API, Next.js 14, Vercel Edge Functions**  
+- 🌱 Currently exploring: **Docker, Figma, LLM**  
 - 💻 Languages & Tools: `JavaScript | TypeScript | Python | React | Node.js | Tailwind CSS | Git | VS Code`  
 - 🏆 Competitive Programming: Active on **Codeforces & LeetCode**  
 - 🌐 Portfolio: [Your Portfolio Link]  
@@ -55,6 +55,7 @@ I live by the motto: **“Build, Break, Learn, Repeat.”** Every project is a p
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
