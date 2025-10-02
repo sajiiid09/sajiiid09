@@ -51,8 +51,9 @@ I live by the motto: **“Build, Break, Learn, Repeat.”** Every project is a p
 <p align="center">
   <a href="http://www.linkedin.com/in/sajid-mahmud-159513113"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="[https://twitter.com](https://x.com/damnbuiii)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:sajid.m.mahmud.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
