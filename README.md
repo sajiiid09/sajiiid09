@@ -29,23 +29,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 
 ---
 
-## 🔭 Featured Projects
 
-### **AI Code Helper (Chrome Extension)**  
- 
-- Provides **hints & solutions for Codeforces problems** using **GPT API**  
-- Built with **JS, Node.js backend, Chrome APIs**
-
-### **Modern Portfolio Website**  
-
-- Fully responsive **Next.js + Tailwind CSS portfolio**  
-- Showcases projects, blogs, and contact features  
-- Hosted on **Vercel with CI/CD integration**
-
-### **AI Analytics Dashboard**  
-
-- Real-time **AI-powered analytics and recommendations**  
-- Built with **React, Chart.js, GPT API**  
 ![Dashboard GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)  
 
 ---
@@ -69,6 +53,7 @@ I live by the motto: **“Build, Break, Learn, Repeat.”** Every project is a p
   <a href="[https://twitter.com](https://x.com/damnbuiii)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="sajid.m.mahmud.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 
 
