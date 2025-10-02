@@ -2,7 +2,7 @@
 
 **AI-Powered Developer | Chrome Extension Builder | Web & ML Enthusiast**  
 
-![Header Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl4cGFwOThnbWhxZGJwY2UzZ3U4MHJ5cDU4dzZtd250MWlobmF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ctoi4IER4JNBe/giphy.gif)
+![Header Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ4cm1pZGJicGoyYXVzcnhwczRiNWx3NHIwZ3BpejVnZjRidG10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwbMLvtTjsEU5oi6C1/giphy.gif)
 
 ---
 
@@ -53,6 +53,7 @@ I live by the motto: **“Build, Break, Learn, Repeat.”** Every project is a p
   <a href="[https://twitter.com](https://x.com/damnbuiii)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="sajid.m.mahmud.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 
 
