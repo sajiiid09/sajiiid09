@@ -45,8 +45,8 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 ---
 
 ## 🌟 Fun Fact
-The “QWERTY” keyboard was designed to slow typists down so old mechanical typewriters wouldn’t jam.
----
+ The “QWERTY” keyboard was designed to slow typists down so old mechanical typewriters wouldn’t jam.
+**---
 
 ## 📫 Connect With Me
 <p align="center">
@@ -54,6 +54,7 @@ The “QWERTY” keyboard was designed to slow typists down so old mechanical ty
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
