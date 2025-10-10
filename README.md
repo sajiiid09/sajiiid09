@@ -12,8 +12,8 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 - 🌱 Currently exploring: **Docker, Figma, LLM**  
 - 💻 Languages & Tools: `JavaScript | TypeScript | Python | React | Node.js | Tailwind CSS | Git | VS Code`  
 - 🏆 Competitive Programming: Active on **Codeforces & LeetCode**  
-- 🌐 Portfolio: [Your Portfolio Link]  
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/sajid-mahmud-159513113) | [Email](sajid.m.mahmud.1@gmail.com) | [Porfolio Website](https://v0-portfolio-website-sajid-mahmud.vercel.app/)
+- 🌐 Portfolio: [Porfolio Website](https://v0-portfolio-website-sajid-mahmud.vercel.app/) 
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/sajid-mahmud-159513113) | [Email](sajid.m.mahmud.1@gmail.com) | [Facebook](https://www.facebook.com/damnbuay/)
 
 ---
 
@@ -55,6 +55,7 @@ I live by the motto: **“Build, Break, Learn, Repeat.”** Every project is a p
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
