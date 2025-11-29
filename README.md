@@ -10,7 +10,7 @@
 I'm passionate about creating **AI-driven tools**, **interactive web apps**, and **problem-solving assistants**. I love building **Websites, Data Analyticals, and smart AI integrations** that help developers save time and learn faster.  
 
 - 🌱 Currently exploring: **Docker, Figma, LLM**  
-- 💻 Languages & Tools: `JavaScript | TypeScript | Python | React | Node.js | Tailwind CSS | Git | VS Code`  
+- 💻 Languages & Tools: ` TypeScript | Git | VS Code | Cursor | OpenCode | Collab | Ollama`  
 - 🏆 Competitive Programming: Active on **Codeforces & LeetCode**  
 - 🌐 Portfolio: [Porfolio Website](https://sajids-portfolio.vercel.app/) 
 - 📫 Connect with me: [LinkedIn](www.linkedin.com/in/sajid-mahmud-159513113) | [Email](sajid.m.mahmud.1@gmail.com) | [Facebook](https://www.facebook.com/damnbuay/)
@@ -54,6 +54,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
