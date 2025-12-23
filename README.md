@@ -37,9 +37,11 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 ---
 ## 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajiiid09&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajiiid09&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
@@ -53,6 +55,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
