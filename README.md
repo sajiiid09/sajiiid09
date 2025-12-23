@@ -35,11 +35,11 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
 ![Dashboard GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)  
 
 ---
-## Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajiiid09&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sajid's GitHub Stats" />
-</p>
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajiiid09&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+</p>
 
 ---
 
@@ -53,6 +53,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
