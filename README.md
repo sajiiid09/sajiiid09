@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Sajid Mahmud]  
+# Hi, I'm Sajid  
 
 **Web Developer | RAG, AI & ML Engineer**  
 
@@ -55,6 +55,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
