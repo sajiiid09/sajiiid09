@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Sajid Mahmud]  
 
-**Web Developer | Database Analyst | LLM, AI & ML Engineer**  
+**Web Developer | RAG, AI & ML Engineer**  
 
 ![Header Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ4cm1pZGJicGoyYXVzcnhwczRiNWx3NHIwZ3BpejVnZjRidG10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwbMLvtTjsEU5oi6C1/giphy.gif)
 
@@ -55,6 +55,7 @@ I'm passionate about creating **AI-driven tools**, **interactive web apps**, and
   <a href="https://www.facebook.com/damnbuay/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sajid_mhmud/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 
 
