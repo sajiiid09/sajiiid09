@@ -1,6 +1,6 @@
 # Hi, I'm Sajid  
 
-**Web Developer | RAG, AI & ML Engineer**  
+**Mobile & Web Application Developer | RAG, AI & ML Engineer**  
 
 ![Header Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ4cm1pZGJicGoyYXVzcnhwczRiNWx3NHIwZ3BpejVnZjRidG10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwbMLvtTjsEU5oi6C1/giphy.gif)
 
