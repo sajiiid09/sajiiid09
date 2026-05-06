@@ -1,4 +1,4 @@
-# Hi, I'm Sajid  
+# helo, I'm Sajid  
 
 **Mobile & Web Application Developer | RAG, AI & ML Engineer**  
 
@@ -6,8 +6,8 @@
 
 ---
 
-## About Me
-I'm passionate about creating **AI-driven tools**, **interactive web apps**, and **problem-solving assistants**. I love building **Websites, Data Analyticals, and smart AI integrations** that help developers save time and learn faster.  
+## I'm passionate about
+   creating **AI-driven tools**, **interactive web apps**, and **problem-solving assistants**. I love building **Websites, Data Analyticals, and smart AI integrations** that help developers save time and learn faster.  
 
 - 🌱 Currently exploring: **Openclaw, n8n, Google Filesystem**  
 - 💻 Languages & Tools: ` TS | Git | JS | Cursor | OpenCode | Python | RAG`  
