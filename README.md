@@ -12,7 +12,7 @@
 - 🌱 Currently exploring: **Openclaw, n8n, Google Filesystem**  
 - 💻 Languages & Tools: ` TS | Git | JS | Cursor | OpenCode | Python | RAG`  
 - 🏆 Competitive Programming: Active on **Codeforces & LeetCode**  
-- 🌐 Portfolio: [Porfolio Website](https://sajids-portfolio.vercel.app/) 
+- 🌐 Portfolio: [Porfolio Website](https://sajiid.me/) 
 - 📫 Connect with me: [LinkedIn](www.linkedin.com/in/sajid-mahmud-159513113) | [Email](sajid.m.mahmud.1@gmail.com) | [Facebook](https://www.facebook.com/damnbuay/)
 
 ---
