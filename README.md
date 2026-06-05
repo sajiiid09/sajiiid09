@@ -1,4 +1,4 @@
-# helo, I'm Sajid  
+# helo, I'm Sajid Mahmud  
 
 **Mobile & Web Application Developer | RAG, AI & ML Engineer**  
 
