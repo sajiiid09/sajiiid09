@@ -34,7 +34,7 @@
 ---
 
 
-![Dashboard GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)  
+![Dashboard GIF](https://i.pinimg.com/originals/6f/b8/b2/6fb8b258ab24e2370f96dcc82992385b.gif)  
 
 ---
 ## Just numbers
